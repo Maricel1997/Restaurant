@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+    <string name="inicio_titulo">GusteauS</string>
+    <string name="inicio_descrip">Experimente nuestro menu de temporada en un hermoso entorno campestre.Disfrute los productos mas frescos desde la comodidad de nuestra granja
+    </string>
+    <string name="inicio_Menu1">Solomillo de cerdo con mantequilla y romero</string>
+    <string name="inicio_Menu2">Salmon a la Placha con ajo y Perejil</string>
+    <string name="inicio_Menu3">Musse De Chocolate con Granada
+    </string>
+
+    <string name="btn_inicio">Reservar</string>
+</resources>
