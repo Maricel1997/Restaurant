@@ -22,7 +22,7 @@ public class FragmentoInicio extends Fragment {
         btnReservar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getActivity(), "Bienvenido al restaurant...", Toast.LENGTH_LONG).show();
+                Toast.makeText(getActivity(), "Bienvenido...", Toast.LENGTH_LONG).show();
             }
         });
         return view;
